@@ -12,6 +12,17 @@
 [GreatTyron](https://github.com/GreatTyron)  
 [D-benlala](https://github.com/D-benlala)  
 
+### 组织架构
+
+1. 第一级组织
+    1. 组委员会
+    2. 组管理系统
+    3. RLS 与 Daily Words
+2. 第二级组织
+    1. [预科课程](https://github.com/ITMO-Computer-Science-Group/Preparatory-Courses)  
+    2. [公共课](https://github.com/ITMO-Computer-Science-Group/Common-Courses)  
+    3. [专业课](https://github.com/ITMO-Computer-Science-Group/Specialized-Courses)  
+
 ### Composition
 
 [语言学习](https://github.com/ITMO-Computer-Science-Group/Russian-Language-Studying/)  
