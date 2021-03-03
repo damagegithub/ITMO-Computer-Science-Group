@@ -63,6 +63,8 @@
     - 公共课学习仓库
 - [Specialized Courses](https://github.com/ITMO-Computer-Science-Group/Specialized-Courses)
     - 专业课学习仓库
+    - 维护者：
+        - [Tolia-GH](https://github.com/Tolia-GH)
 
 ### 人员分工
 
