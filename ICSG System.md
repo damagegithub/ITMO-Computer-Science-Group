@@ -2,8 +2,8 @@
 ---
 1. 权限控制
 
-||Member|Administrator|
-||-|-|
+| |Member|Administrator|
+|-|---|---|
 |查看、标记自己的 Daily Words|√|√|
 |在 Daily Words 发送消息|√|√|
 |控制 Daily Words 的计划||√|
