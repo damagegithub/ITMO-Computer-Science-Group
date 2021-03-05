@@ -1,0 +1,1 @@
+As we known , $$\sqrt{100} = 10$$
