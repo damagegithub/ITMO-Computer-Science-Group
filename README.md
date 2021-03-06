@@ -8,7 +8,8 @@
 ### Composition
 
 - [语言学习](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
-- [我们的 GitHub 组织](https://github.com/ITMO-Computer-Science-Group)
+- [我们的 GitHub 组织](https://github.com/ITMO-Computer-Science-Group/)
+- [我们的网页](https://itmo.ranying.xyz/)
 
 ### Administrators
 
