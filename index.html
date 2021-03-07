@@ -31,7 +31,7 @@
                     let time = new Date(nowTime - startTime);
                     let day = Math.floor(time/1000/60/60/24);
                     document.getElementById("Timer").innerHTML = 
-                    `${day}天${time.getHours()<10?"0"+time.getHours():time.getHours()}时${time.getMinutes()<10?"0"+time.getMinutes():time.getMinutes()}分${time.getSeconds()<10?"0"+time.getSeconds():time.getSeconds()}秒` ;
+                    `${day} days ${time.getHours()<10?"0"+time.getHours():time.getHours()} hours ${time.getMinutes()<10?"0"+time.getMinutes():time.getMinutes()} minutes ${time.getSeconds()<10?"0"+time.getSeconds():time.getSeconds()} seconds` ;
                 },1000
             )
         }
@@ -46,15 +46,15 @@
         <h3 id="introduction">Introduction</h3>
 
         <p>
-        此项目已进行<span id="Timer">Loading...</span>！
+            This project has started <span id="Timer">Loading...</span>！
         </p>
 
         <h3 id="composition">Composition</h3>
 
         <ul>
-            <li><a href="https://itmo-computer-science-group.github.io/Russian-Language-Studying/">语言学习</a></li>
-            <li><a href="https://github.com/ITMO-Computer-Science-Group/">我们的 GitHub 组织</a></li>
-            <li><a href="https://itmo.ranying.xyz/">我们的网页</a></li>
+            <li><a href="https://itmo-computer-science-group.github.io/Russian-Language-Studying/">Russian Language Studying</a></li>
+            <li><a href="https://github.com/ITMO-Computer-Science-Group/">Our GitHub</a></li>
+            <li><a href="https://itmo.ranying.xyz/">Our Website</a></li>
         </ul>
 
         <h3 id="administrators">Administrators</h3>
