@@ -1,6 +1,6 @@
-<img src="img/icsg.jpg" style="width:100%;"/>
-
 # ITMO-Computer-Science-Group
+
+<img src="img/icsg.jpg" style="width:100%;"/>
 
 ### Introduction
 
