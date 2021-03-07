@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Begin Jekyll SEO tag v2.7.1 -->
+    <title>ICSG Official</title>
+    <meta name="generator" content="Jekyll v3.9.0">
+    <meta property="og:title" content="ITMO-Computer-Science-Group">
+    <meta property="og:locale" content="en_US">
+    <meta name="description" content="ITMO Computer Science Group by Chinese">
+    <meta property="og:description" content="ITMO Computer Science Group by Chinese">
+    <link rel="canonical" href="https://itmo.ranying.xyz/">
+    <meta property="og:url" content="http://itmo.ranying.xyz/">
+    <meta property="og:site_name" content="ITMO-Computer-Science-Group">
+    <meta name="twitter:card" content="summary">
+    <meta property="twitter:title" content="ITMO-Computer-Science-Group">
+    <!-- End Jekyll SEO tag -->
+
+    <style class="anchorjs"></style>
+    <link rel="stylesheet" href="style.css">
+    <script>
+        var startTime = new Date("2020-11-21");
+        function startTimer(){
+            setInterval(
+                ()=>{
+                    let nowTime = Date.now();
+                    let time = new Date(nowTime - startTime);
+                    let day = Math.floor(time/1000/60/60/24);
+                    document.getElementById("Timer").innerHTML = 
+                    `${day}天${time.getHours()<10?"0"+time.getHours():time.getHours()}时${time.getMinutes()<10?"0"+time.getMinutes():time.getMinutes()}分${time.getSeconds()<10?"0"+time.getSeconds():time.getSeconds()}秒` ;
+                },1000
+            )
+        }
+    </script>
+</head>
+
+<body onload="startTimer()">
+    <div class="container-lg px-3 my-5 markdown-body">
+
+        <h1><a href="https://itmo.ranying.xyz/">ITMO Computer Science Group Official Website</a></h1>
+
+        <h3 id="introduction">Introduction</h3>
+
+        <p>
+        此项目已进行<span id="Timer">Loading...</span>！
+        </p>
+
+        <h3 id="composition">Composition</h3>
+
+        <ul>
+            <li><a href="https://itmo-computer-science-group.github.io/Russian-Language-Studying/">语言学习</a></li>
+            <li><a href="https://github.com/ITMO-Computer-Science-Group/">我们的 GitHub 组织</a></li>
+            <li><a href="https://itmo.ranying.xyz/">我们的网页</a></li>
+        </ul>
+
+        <h3 id="administrators">Administrators</h3>
+
+        <ul>
+            <li><a href="https://github.com/Ran-ying">Ranying</a></li>
+            <li><a href="https://github.com/Tolia-GH">Tolia-GH</a></li>
+        </ul>
+
+        <h3 id="contributors">Contributors</h3>
+
+        <ul>
+            <li><a href="https://github.com/Ran-ying">Ranying</a></li>
+            <li><a href="https://github.com/Tolia-GH">Tolia-GH</a></li>
+            <li><a href="https://github.com/GreatTyron">GreatTyron</a></li>
+            <li><a href="https://github.com/D-benlala">D-benlala</a></li>
+        </ul>
+
+    </div>
+</body>
+
+</html>

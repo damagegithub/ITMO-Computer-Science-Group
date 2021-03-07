@@ -1,15 +1,16 @@
 <img src="img/icsg.jpg" style="width:100%;"/>
----
+
+# ITMO-Computer-Science-Group
 
 ### Introduction
 
-//TO-DO
+This project started at 2020/11/21
 
 ### Composition
 
-- [语言学习](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
-- [我们的 GitHub 组织](https://github.com/ITMO-Computer-Science-Group/)
-- [我们的网页](https://itmo.ranying.xyz/)
+- [Russian Language Studying](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
+- [Our GitHub](https://github.com/ITMO-Computer-Science-Group/)
+- [Our Website](https://itmo.ranying.xyz/)
 
 ### Administrators
 
