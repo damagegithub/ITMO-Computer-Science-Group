@@ -9,7 +9,7 @@ This project started at 2020/11/21. We are university students from CSC (China S
 ### Composition
 
 - [Russian Language Studying](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
-- [Preparatory Courses](https://itmo-computer-science-group.github.io/Preparatory Courses/)
+- [Preparatory Courses](https://itmo-computer-science-group.github.io/Preparatory-Courses/)
 - [Our GitHub](https://github.com/ITMO-Computer-Science-Group/)
 - [Our Website](https://itmo.ranying.xyz/)
 
