@@ -8,5 +8,5 @@ window.MathJax = {
   }
 }
 </script>
-<script type="text/javascript" defer src="tex-chtml.js"></script>
+<script type="text/javascript" defer src="LaTeX.js"></script>
 $\frac{a}{b}$
