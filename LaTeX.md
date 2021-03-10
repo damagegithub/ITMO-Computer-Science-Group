@@ -84,3 +84,4 @@
     ||$\underbrace{jack}_{4}$|\underbrace{jack}_{4}|
 	
 
+<script type="text/javascript" async src="https://itmo.ranying.xyz/mathjax3/LaTeX.js"></script> 
