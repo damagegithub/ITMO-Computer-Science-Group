@@ -4,13 +4,17 @@
 
 ### 介绍
 
+这个项目有迹可考于2020年11月21日开始。我们是由教育部留学基金委派出至ITMO大学计算机类专业的学生，[@染樱](https://www.github.com/Ran-ying) 是这个项目的第一组织与维护者。
 
+以下是这个项目的组成和维护者：
 
 ### Introduction
 
-This project started at 2020/11/21. We are university students from CSC (China Scholarship Council) studying in university ITMO. [@Ran-ying](https://www.github.com/Ran-ying) is the chief maintainer of this project. Here is this project's Composition and Maintainers.
+This project started at 2020/11/21. We are university students from CSC (China Scholarship Council) studying in university ITMO. [@Ran-ying](https://www.github.com/Ran-ying) is the chief maintainer of this project. 
 
-### 
+Here is this project's Composition and Maintainers:
+
+### референция
 
 ### 基本价值观
 
