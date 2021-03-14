@@ -12,26 +12,27 @@
 ## 组织人员
 
 - ### 管理员：
-  - [Ran-ying](https://github.com/Ran-ying) - 组织创始人，项目发起人，维护者，贡献者
-  - [Tolia-GH](https://github.com/Tolia-GH) - 组织创始人，维护者，贡献者  
+    - [Ran-ying](https://github.com/Ran-ying) - 组织创始人，项目发起人，维护者，贡献者
+    - [Tolia-GH](https://github.com/Tolia-GH) - 组织创始人，维护者，贡献者  
   
 - ### 成员：
-  - [GreatTyron](https://github.com/GreatTyron) - 预科仓库贡献者 
-  - [D-benlala](https://github.com/D-benlala) - 预科仓库贡献者 
-  - [thesorrymaker](https://github.com/thesorrymaker) - 专业课仓库贡献者
-  - [LIN020504](https://github.com/LIN020504) - 专业课仓库贡献者
+    - [GreatTyron](https://github.com/GreatTyron) - 预科仓库贡献者 
+    - [D-benlala](https://github.com/D-benlala) - 预科仓库贡献者 
+    - [thesorrymaker](https://github.com/thesorrymaker) - 专业课仓库贡献者
+    - [LIN020504](https://github.com/LIN020504) - 专业课仓库贡献者
 
 ## 项目内容
 - 内容仓库：
-  - [语言学习](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
-  - [预科课程](https://itmo-computer-science-group.github.io/Preparatory-Courses/)
+    - [语言学习](https://itmo-computer-science-group.github.io/Russian-Language-Studying/)  
+    - [预科课程](https://itmo-computer-science-group.github.io/Preparatory-Courses/)
 
 - ### 传送门：
-  - [我们的GitHub](https://github.com/ITMO-Computer-Science-Group/) - 欢迎来这里协助我们改进这个项目  
-  - [GitHub 页面](https://itmo.ranying.xyz/) - 在这里你可以访问到项目最新的内容
-  - [ICSG wiki](https://moe.ranying.xyz/) - 这里是我们的知识网络系统
+    - [我们的GitHub](https://github.com/ITMO-Computer-Science-Group/) - 欢迎来这里协助我们改进这个项目  
+    - [GitHub 页面](https://itmo.ranying.xyz/) - 在这里你可以访问到项目最新的内容
+    - [ICSG wiki](https://moe.ranying.xyz/) - 这里是我们的知识网络系统
 
 ## 项目历程
+
 | 时间 | 事件 |
 |------|------|
 | 2020/11/21 | [Ran-ying](https://github.com/Ran-ying)创立组织 |
